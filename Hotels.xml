@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+  <Hotel Rating="4.2" OptionalAttribute="Luxury">
+    <Name>Westin</Name>
+    <Address>
+      <Street>E. 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+    <Phone>800-937-8461</Phone>
+    <Phone>480-968-8885</Phone>
+  </Hotel>
+
+  <Hotel Rating="4.5">
+    <Name>Marriott Downtown</Name>
+    <Address>
+      <Street>100 E. Adams St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+    <Phone>602-333-0000</Phone>
+  </Hotel>
+
+  <Hotel Rating="3.8" OptionalAttribute="Business">
+    <Name>Hilton Garden Inn</Name>
+    <Address>
+      <Street>4000 N Central Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85012</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+    <Phone>602-279-9811</Phone>
+  </Hotel>
+
+  <Hotel Rating="4.0">
+    <Name>Courtyard Scottsdale</Name>
+    <Address>
+      <Street>3311 N Scottsdale Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85251</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+    <Phone>480-429-7785</Phone>
+  </Hotel>
+
+  <Hotel Rating="3.9" OptionalAttribute="Resort">
+    <Name>Fairmont Scottsdale Princess</Name>
+    <Address>
+      <Street>7575 E Princess Dr</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85255</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+    <Phone>480-585-4848</Phone>
+  </Hotel>
+
+  <!-- Add more hotels similarly (at least 10 total for your assignment) -->
+</Hotels>
