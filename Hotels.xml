@@ -23,7 +23,7 @@
             <Zip>85282</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="4.3">
+    <Hotel >
         <Name>Hilton Garden Inn Phoenix Tempe</Name>
         <Phone>480-897-5100</Phone>
         <Address NearstAirport="Sky Harbor">
@@ -45,7 +45,7 @@
             <Zip>85282</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="3.1">
+    <Hotel">
         <Name>La Quinta Inn by Wyndham Phoenix Sky Harbor Airport</Name>
         <Phone>480-967-4465</Phone>
         <Address NearstAirport="Sky Harbor">
