@@ -13,7 +13,7 @@
         </Address>
     </Hotel>
 
-    <Hotel>
+    <Hotel Rating="4.1">
         <Name>Embassy Suites by Hilton Phoenix Tempe</Name>
         <Phone>480-897-7444</Phone>
         <Address>
@@ -24,8 +24,7 @@
             <Zip>85282</Zip>
         </Address>
     </Hotel>
-
-    <Hotel Rating="4.3">
+    <Hotel>
         <Name>Hilton Garden Inn Phoenix Tempe</Name>
         <Address NearstAirport="Sky Harbor">
             <Number>7290</Number>
@@ -35,7 +34,6 @@
             <Zip>85283</Zip>
         </Address>
     </Hotel>
-
     <Hotel Rating="4.3">
         <Name>Marriott Phoenix Resort Tempe at The Buttes</Name>
         <Phone>602-225-9000</Phone>
@@ -46,9 +44,9 @@
             <State>AZ</State>
             <Zip>85282
     </Hotel>
-    <Hotel Rating="3.1">
+    <Hotel>
         <Name>La Quinta Inn by Wyndham Phoenix Sky Harbor Airport</Name>
-        <Name>Error Duplicate Name Element</Name>
+        <Name>La Quinta Inn</Name>
         <Phone>480-967-4465</Phone>
         <Address NearstAirport="Sky Harbor">
             <Number>911</Number>
