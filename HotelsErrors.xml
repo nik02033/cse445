@@ -12,7 +12,6 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-
     <Hotel Rating="4.1">
         <Name>Embassy Suites by Hilton Phoenix Tempe</Name>
         <Phone>480-897-7444</Phone>
@@ -42,7 +41,7 @@
             <Street>W.Westcourt Way</Street>
             <City>Tempe</City>
             <State>AZ</State>
-            <Zip>85282
+            <Zip>85282</Zip>
     </Hotel>
     <Hotel>
         <Name>La Quinta Inn by Wyndham Phoenix Sky Harbor Airport</Name>
