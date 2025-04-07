@@ -15,7 +15,7 @@
     <Hotel Rating="4.1">
         <Name>Embassy Suites by Hilton Phoenix Tempe</Name>
         <Phone>480-897-7444</Phone>
-        <Address>
+        <Address NearstAirport="Sky Harbor">
             <Number>4400</Number>
             <Street>S.Rural Road</Street>
             <City>Tempe</City>
