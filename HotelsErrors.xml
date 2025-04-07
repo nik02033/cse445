@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotel>
-    <Hotel Rating="4.2">
+    <Hotel>
         <Name>Westin</Name>
-        <Address NearstAirport="Sky Harbor">
+        <Address>
             <Number>11</Number>
             <Street>E.7th St</Street>
             <City>Tempe</City>
@@ -10,10 +10,10 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="4.1">
+    <Hotel>
         <Name>Embassy Suites by Hilton Phoenix Tempe</Name>
         <Phone>480-897-7444</Phone>
-        <Address NearstAirport="Sky Harbor">
+        <Address>
             <Number>4400</Number>
             <Street>S.Rural Road</Street>
             <City>Tempe</City>
@@ -22,9 +22,9 @@
     </Hotel>
     <Hotel>
         <Name>Hilton Garden Inn Phoenix Tempe</Name>
-        <Name>Hilton Garden Inn</Name>
+        <Name>Music Hotel</Name>
         <Phone>480-897-5100</Phone>
-        <Address NearstAirport="Sky Harbor">
+        <Address>
             <Number>7290</Number>
             <Street>Price Rd</Street>
             <City>Tempe</City>
@@ -32,7 +32,7 @@
             <Zip>85283</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="4.3">
+    <Hotel>
         <Name>Marriott Phoenix Resort Tempe at The Buttes</Name>
         <Phone>602-225-9000</Phone>
         <Address>
@@ -46,7 +46,7 @@
     <Hotel>
         <Name>La Quinta Inn by Wyndham Phoenix Sky Harbor Airport</Name>
         <Phone>480-967-4465</Phone>
-        <Address NearstAirport="Sky Harbor">
+        <Address>
             <Number>911</Number>
             <Street>S.48th St</Street>
             <City>Tempe</City>
@@ -54,10 +54,10 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="4.1">
+    <Hotel>
         <Name>Hilton Phoenix Tapatio Cliffs Resort</Name>
         <Phone>602-866-7500</Phone>
-        <Address NearstAirport="Sky Harbor">
+        <Address>
             <Number>11111</Number>
             <Street>N 7th St</Street>
             <City>Phoenix</City>
@@ -65,10 +65,10 @@
             <Zip>85020</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="3.9">
+    <Hotel>
         <Name>Wyndham Phoenix Airport/Tempe</Name>
         <Phone>480-967-6600</Phone>
-        <Address NearstAirport="Sky Harbor">
+        <Address>
             <Number>1600</Number>
             <Street>S 52nd St</Street>
             <City>Tempe</City>
@@ -76,10 +76,10 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="4.4">
+    <Hotel>
         <Name>The Camby, Autograph Collection</Name>
         <Phone>602-468-0700</Phone>
-        <Address NearstAirport="Sky Harbor">
+        <Address>
             <Number>2401</Number>
             <Street>E Camelback Rd</Street>
             <City>Phoenix</City>
@@ -87,10 +87,10 @@
             <Zip>85016</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="4.4">
+    <Hotel>
         <Name>Hyatt Regency Phoenix</Name>
         <Phone>602-252-1234</Phone>
-        <Address NearstAirport="Sky Harbor">
+        <Address>
             <Number>122</Number>
             <Street>N 2nd St</Street>
             <City>Phoenix</City>
@@ -98,10 +98,10 @@
             <Zip>85004</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="4.5">
+    <Hotel>
         <Name>The Global Ambassador</Name>
         <Phone>480-800-2211</Phone>
-        <Address NearstAirport="Sky Harbor">
+        <Address>
             <Number>4360</Number>
             <Street>E Camelback Rd</Street>
             <City>Phoenix</City>
