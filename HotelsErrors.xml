@@ -35,7 +35,7 @@
     <Hotel Rating="4.3">
         <Name>Marriott Phoenix Resort Tempe at The Buttes</Name>
         <Phone>602-225-9000</Phone>
-        <Address NearstAirport="Sky Harbor">
+        <Address>
             <Number>2000</Number>
             <Street>W.Westcourt Way</Street>
             <City>Tempe</City>
