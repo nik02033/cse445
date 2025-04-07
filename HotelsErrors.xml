@@ -2,8 +2,6 @@
 <Hotel>
     <Hotel Rating="4.2">
         <Name>Westin</Name>
-        <Phone>480-968-8885</Phone>
-        <Phone>800-937-8461</Phone>
         <Address NearstAirport="Sky Harbor">
             <Number>11</Number>
             <Street>E.7th St</Street>
@@ -21,10 +19,11 @@
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85282</Zip>
-        </Address>
     </Hotel>
     <Hotel>
         <Name>Hilton Garden Inn Phoenix Tempe</Name>
+        <Name>Hilton Garden Inn</Name>
+        <Phone>480-897-5100</Phone>
         <Address NearstAirport="Sky Harbor">
             <Number>7290</Number>
             <Street>Price Rd</Street>
@@ -42,10 +41,10 @@
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85282</Zip>
+        </Address>
     </Hotel>
     <Hotel>
         <Name>La Quinta Inn by Wyndham Phoenix Sky Harbor Airport</Name>
-        <Name>La Quinta Inn</Name>
         <Phone>480-967-4465</Phone>
         <Address NearstAirport="Sky Harbor">
             <Number>911</Number>
