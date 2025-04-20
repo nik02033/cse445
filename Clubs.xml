@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Clubs xmlns="http://tempuri.org/ClubsSchema">
+  <Club>
+    <ID>1</ID>
+    <Name>Science Club</Name>
+    <Description>A club for science enthusiasts.</Description>
+    <President>John Doe</President>
+    <EstablishedYear>1995</EstablishedYear>
+    <Email>science@example.com</Email>
+  </Club>
+  <Club>
+    <ID>2</ID>
+    <Name>Art Club</Name>
+    <Description>A club for creative arts.</Description>
+    <President>Jane Smith</President>
+    <EstablishedYear>2000</EstablishedYear>
+    <Email>art@example.com</Email>
+  </Club>
+  <Club>
+    <ID>3</ID>
+    <Name>Drama Club</Name>
+    <Description>A club dedicated to theater production.</Description>
+    <President>Emily Davis</President>
+    <EstablishedYear>1998</EstablishedYear>
+    <Email>drama@example.com</Email>
+  </Club>
+  <Club>
+    <ID>4</ID>
+    <Name>Chess Club</Name>
+    <Description>A club for chess enthusiasts and competitions.</Description>
+    <President>Michael Brown</President>
+    <EstablishedYear>1992</EstablishedYear>
+    <Email>chess@example.com</Email>
+  </Club>
+  <Club>
+    <ID>5</ID>
+    <Name>Debate Club</Name>
+    <Description>A club focused on developing persuasive skills.</Description>
+    <President>Laura Wilson</President>
+    <EstablishedYear>2005</EstablishedYear>
+    <Email>debate@example.com</Email>
+  </Club>
+  <Club>
+    <ID>6</ID>
+    <Name>Music Club</Name>
+    <Description>A club for musical performance and instruments.</Description>
+    <President>Kevin Johnson</President>
+    <EstablishedYear>1990</EstablishedYear>
+    <Email>music@example.com</Email>
+  </Club>
+  <Club>
+    <ID>7</ID>
+    <Name>Photography Club</Name>
+    <Description>A club for photography and visual arts.</Description>
+    <President>Olivia Martinez</President>
+    <EstablishedYear>2003</EstablishedYear>
+    <Email>photo@example.com</Email>
+  </Club>
+  <Club>
+    <ID>8</ID>
+    <Name>Technology Club</Name>
+    <Description>A club for tech enthusiasts and coders.</Description>
+    <President>William Anderson</President>
+    <EstablishedYear>2010</EstablishedYear>
+    <Email>tech@example.com</Email>
+  </Club>
+  <Club>
+    <ID>9</ID>
+    <Name>Robotics Club</Name>
+    <Description>A club focusing on robotics and automation.</Description>
+    <President>Sophia Lee</President>
+    <EstablishedYear>2012</EstablishedYear>
+    <Email>robotics@example.com</Email>
+  </Club>
+  <Club>
+    <ID>10</ID>
+    <Name>Literature Club</Name>
+    <Description>A club for book lovers and writers.</Description>
+    <President>Liam Garcia</President>
+    <EstablishedYear>1988</EstablishedYear>
+    <Email>literature@example.com</Email>
+  </Club>
+</Clubs>
